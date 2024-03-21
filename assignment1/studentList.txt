@@ -1,0 +1,76 @@
+102220340
+Thân Ánh Thiện
+22T_Nhat2
+8.5
+102220342
+Trần Thị Bình
+22T_Nhat2
+9.2
+102220343
+Lê Văn Cường
+22T_Nhat2
+8.0
+102220344
+Phạm Thị Dung
+22T_Nhat2
+8.7
+102220345
+Hoàng Văn Dương
+22A_KTPM2
+7.5
+102220346
+Nguyễn Thị Hà
+21T_KTMT1
+9.5
+102220347
+Trần Văn Hiếu
+20A_CongNghe3
+6.8
+102220348
+Lê Thị Lan
+24T_DienTu2
+9.8
+102220349
+Phan Văn Minh
+18A_CNTT4
+8.9
+102220350
+Vũ Thị Ngọc
+23A_KTPM1
+7.2
+102220351
+Đỗ Văn Phú
+22T_CongNghe4
+8.3
+102220352
+Trần Thị Quỳnh
+19T_DienTu3
+7.6
+102220353
+Hoàng Minh Tuấn
+21A_KTMT2
+8.1
+102220354
+Nguyễn Thị Uyên
+20T_CNTT3
+9.0
+102220355
+Lê Văn Việt
+24A_CongNghe1
+7.3
+102220356
+Phạm Thị Ánh
+18T_KTPM3
+8.6
+102220357
+Trần Văn Bảo
+17A_DienTu4
+6.9
+102220358
+Nguyễn Thị Hồng
+16T_CNTT2
+9.3
+102220341
+Nguyễn Văn A
+22T_Nhat2
+7.9

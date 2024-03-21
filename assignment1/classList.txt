@@ -1,0 +1,45 @@
+22T_Nhat2
+Lớp CNTT Nhật
+CNTT
+22A_KTPM2
+Lớp Kĩ thuật Thưc Phẩm
+Thưc Phẩm
+21T_KTMT1
+Kĩ thuật máy tính
+CNTT
+20A_CongNghe3
+Công nghệ
+Công nghệ
+24T_DienTu2
+Điện Tử
+Điển Tử viễn thông
+18A_CNTT4
+CNTT Chi hi
+CNTT
+23A_KTPM1
+Kĩ thuật thực phẩm
+CNTT
+22T_CongNghe4
+Công nghê
+Công nghê
+19T_DienTu3
+Điện Tử
+Điển Tử viễn thông
+21A_KTMT2
+Kĩ thuật máy tính
+CNTT
+20T_CNTT3
+Lớp CNTT 
+CNTT
+24A_CongNghe1
+Công nghê
+Công nghê
+18T_KTPM3
+Lớp Kĩ thuật Thưc Phẩm
+Thưc Phẩm
+17A_DienTu4
+Điện Tử
+Điển Tử viễn thông
+16T_CNTT2
+Lớp CNTT Nhật
+CNTT
